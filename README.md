@@ -1,6 +1,6 @@
 # AI Applications Portfolio – Imran Khan
 
-This repository is my Course Final Portfolio for **ITAI‑2372 – Artificial Intel Applications (S10‑14051)** at Houston Community College.  
+This repository is my Course Final Portfolio for **ITAI‑2372 – Artificial Intel Applications (S10‑14051)** at Houston City College.  
 It showcases my work across all course modules, including case studies, class notes, reflections, and analyses of how AI is applied in different industries and society.
 
 > Course Final: Portfolio (Due Aug 8, 100 pts)
