@@ -9,7 +9,7 @@ It showcases my work across all course modules, including case studies, class no
 
 ## 📁 Repository Structure
 
-The repository is organized by course modules and assignments to mirror the Canvas structure:
+The repository is organized by course modules and assignments:
 
 - `module-00_start-here/` – Study support materials, technical writing features, and reflective journal structure
 - `module-01_philosophy-ethics/` – Philosophy of AI and ethical & societal implications (slides, readings, notes)
